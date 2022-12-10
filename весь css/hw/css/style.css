@@ -1,0 +1,3 @@
+li:nth-child(even) { color: rgb(59, 104, 74); }
+
+tr:nth-child(even) { background: rgb(90, 148, 110); }

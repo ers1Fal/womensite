@@ -1,0 +1,26 @@
+div{
+    width:30%;
+    height: 200px;
+    background-color: bisque;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5%;
+    margin: 10px;
+
+}
+.cont{
+    width:80%;
+    height: 300px;
+    background-color:aqua;
+    border: 1px solid black;
+    border-radius: 10px;
+    text-align: center;
+    padding-top: 5%;
+    box-shadow: 2px 3px 4px 5px;
+    margin: 10px;
+    position: ;
+}
+.d1,.d2,.d3{
+    float:left;
+}

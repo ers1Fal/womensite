@@ -1,0 +1,59 @@
+#p1{
+    font-size: 20pt;
+}
+#p2{
+    font-style:italic;
+    font-family: 'Courier New';
+    font-size: 24pt;
+}
+#p2::first-line{
+    color:red;
+}
+#p3{
+    font-family: Verdana;
+    font-weight: bolder;
+    font-size: 10pt;
+    color:blue;
+}
+#p4{
+    font-family:Georgia;
+    font-size:2.5em;
+    text-align:center;
+}
+#p5{
+    font-family: Comic Sans MS;
+    font-style:italic;
+    font-size:1.3em;
+}
+div{
+    background-color: blue;
+    color:white;
+}
+h1,h2{
+    text-align:center;
+    color:gold;
+}
+h2{
+    text-decoration:underline;
+}
+#su{
+    font-style:oblique;
+    text-indent: 2em;
+    letter-spacing: 2px;
+}
+#su::first-letter{
+    color:gold;
+}
+.osel:first-letter{
+    color:gold;
+}
+a{
+    text-decoration: none;
+    color:darkcyan;
+}
+a:hover{
+    background-color: rgb(202, 25, 25);
+}
+li:nth-child(odd){
+    color:coral;
+}

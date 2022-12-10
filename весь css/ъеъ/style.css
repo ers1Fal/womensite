@@ -1,0 +1,41 @@
+body{
+    background: linear-gradient(rgb(255, 115, 0),blue,red);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+h1{
+    color:lavender;
+    text-align: center;
+}
+div{
+    background-color: beige;
+    border: 2px solid black;
+    padding-left: 50px;
+    margin:auto;
+    width: 30%;
+    height:150px;
+    float:left;
+}
+#d1{
+    background-image:url(photos/priroda.jpg);
+    height:300px;
+    width:300px;
+    margin: 5px;
+    border-radius: 50%;
+}
+#d2{
+    background-image:url(photos/pr2.jpg);
+    height:300px;
+    width:300px;
+    margin: 5px;
+    border-radius: 50%;
+}
+#d3{
+    background-image:url(photos/osel.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height:300px;
+    width:300px;
+    margin: 5px;
+    border-radius: 50%;
+}

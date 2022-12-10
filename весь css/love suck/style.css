@@ -1,0 +1,17 @@
+.p1{
+    background-color: darkgrey;
+    border: 2px solid grey;
+    text-align: center;
+}
+.p2{
+    background-color: darkgrey;
+    border-style: inset;
+    border-radius: 5px;
+    border-color: beige;
+    text-align: center;
+}
+.p3 {
+    background-color: darkgrey;
+    border-style: dotted;
+    text-align: center;
+}
